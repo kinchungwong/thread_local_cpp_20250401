@@ -7,6 +7,8 @@
 #include "src/v0/data/shared_void.cpp"
 #include "include/v0/data/shared_void_inline.h"
 #include "include/v0/data/shared_var.h"
+#include "include/v0/threading/balk_mutex.h"
+#include "src/v0/threading/balk_mutex.cpp"
 #include "include/v0/tls_thread_data.h"
 #include "src/v0/tls_thread_data.cpp"
 #include "include/v0/tls_thread_data_inline.h"
