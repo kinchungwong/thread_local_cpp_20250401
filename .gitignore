@@ -33,3 +33,7 @@
 
 # Disassembly output
 *.s
+
+# Anything in .ignored folder
+.ignored
+*.ignored
