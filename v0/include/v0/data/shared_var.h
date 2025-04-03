@@ -1,7 +1,7 @@
 #ifndef SHARED_VAR_H
 #define SHARED_VAR_H
 
-#include "v0/shared_void_inline.h"
+#include "v0/data/shared_void_inline.h"
 
 /**
  * @brief Typed template wrapper around SharedVoid.

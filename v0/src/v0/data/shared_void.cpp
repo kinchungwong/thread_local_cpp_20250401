@@ -2,7 +2,7 @@
 #ifndef SHARED_VOID_CPP
 #define SHARED_VOID_CPP
 
-#include "v0/shared_void.h"
+#include "v0/data/shared_void.h"
 
 SharedVoid::SharedVoid()
     : _ptr()

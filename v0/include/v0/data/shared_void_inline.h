@@ -1,7 +1,7 @@
 #ifndef SHARED_VOID_INLINE_H
 #define SHARED_VOID_INLINE_H
 
-#include "v0/shared_void.h"
+#include "v0/data/shared_void.h"
 
 template<typename T>
 SharedVoid::SharedVoid(const std::shared_ptr<T>& ptr)

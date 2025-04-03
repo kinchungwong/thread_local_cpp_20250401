@@ -4,8 +4,8 @@
 #include <stdexcept>
 #include <mutex>
 #include <unordered_map>
-#include "v0/shared_void.h"
-#include "v0/shared_var.h"
+#include "v0/data/shared_void.h"
+#include "v0/data/shared_var.h"
 
 /**
  * @brief Thread-local storage for shared data, for use by a single thread.
